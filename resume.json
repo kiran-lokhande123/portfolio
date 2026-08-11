@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "Kiran Lokhande",
+    "label": "Technical Writer | AI-Assisted Documentation",
+    "email": "lokhande.kiran@gmail.com",
+    "phone": "+91 95453 36988",
+    "location": {
+      "city": "Pune",
+      "countryCode": "IN"
+    },
+    "url": "https://linkedin.com/in/kiran-lokhande-tech-writer"
+  },
+  "work": [
+    {
+      "name": "Microsoft",
+      "position": "Technical Writer",
+      "startDate": "2023-08",
+      "endDate": "",
+      "summary": "Develop user-focused documentation for an AI-powered clinical documentation platform, leveraging AI-assisted writing tools and structured authoring practices.",
+      "highlights": [
+        "Reduced customer support tickets by 25% by developing modular, reusable content addressing common user issues",
+        "Designed scenario-based training using Articulate Rise 360 and Camtasia to support user adoption of complex clinical workflows",
+        "Analyzed Azure DevOps feature tickets and acceptance criteria to identify and prioritize documentation requirements",
+        "Delivered structured content using Oxygen XML Editor ensuring usability and release readiness"
+      ]
+    },
+    {
+      "name": "Nuance",
+      "position": "Senior Technical Writer",
+      "startDate": "2020-06",
+      "endDate": "2023-08",
+      "summary": "Created and maintained comprehensive user guides, admin guides, system requirements, and release notes for enterprise software products.",
+      "highlights": [
+        "Analyzed Jira tickets to identify documentation requirements for product enhancements, new features, and bug fixes",
+        "Translated complex product updates into clear, user-focused documentation reducing support queries",
+        "Planned and delivered documentation aligned with release timelines and feature priorities in Agile environment",
+        "Collaborated with product managers, developers, and QA teams to ensure documentation accuracy and compliance"
+      ]
+    },
+    {
+      "name": "PTC Software",
+      "position": "Lead Technical Writing Specialist",
+      "startDate": "2014-02",
+      "endDate": "2020-06",
+      "summary": "Led creation and maintenance of documentation for core mechanical software modules supporting 2D and 3D design workflows.",
+      "highlights": [
+        "Led documentation planning and development for core modules, collaborating with technical project managers and engineers",
+        "Developed detailed use-case scenarios and workflow examples enabling users to understand complex software features",
+        "Trained and mentored junior technical writers, improving team productivity and ensuring consistency in content quality",
+        "Created structured, reusable documentation using Arbortext aligned with product requirements and company guidelines"
+      ]
+    },
+    {
+      "name": "EXFO Electro Optical Engineering Pvt. Ltd.",
+      "position": "Technical Writer",
+      "startDate": "2012-06",
+      "endDate": "2014-02",
+      "summary": "Developed user guides, release notes, and standardized documentation for telecom software products.",
+      "highlights": [
+        "Developed user guides for telecom software products using FrameMaker supporting customer adoption and product use",
+        "Created release notes communicating new features, updates, and bug fixes to internal teams and customers",
+        "Maintained consistency in formatting, terminology, and style across all documents following company standards and best practices",
+        "Collaborated with cross-functional teams to validate technical content and ensure documentation accuracy"
+      ]
+    },
+    {
+      "name": "Persistent Systems",
+      "position": "Information Developer",
+      "startDate": "2010-04",
+      "endDate": "2012-05",
+      "summary": "Contributed to software documentation and training content development for enterprise software products.",
+      "highlights": [
+        "Developed interactive software simulations using Adobe Captivate to support user training and adoption",
+        "Contributed to IBM product documentation using Arbortext, adhering to strict IBM style guidelines and best practices"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Modern College, Pune University",
+      "studyType": "Bachelor of Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Documentation Strategy & Content Lifecycle",
+      "keywords": [
+        "Content planning",
+        "Documentation architecture",
+        "Lifecycle management"
+      ]
+    },
+    {
+      "name": "Content Structuring",
+      "keywords": [
+        "Information architecture",
+        "Modular writing",
+        "Structured authoring"
+      ]
+    },
+    {
+      "name": "Technical Documentation",
+      "keywords": [
+        "User guides",
+        "Admin manuals",
+        "Release notes",
+        "Knowledge base",
+        "FAQ"
+      ]
+    },
+    {
+      "name": "Authoring Tools",
+      "keywords": [
+        "Oxygen XML Editor",
+        "Arbortext",
+        "FrameMaker"
+      ]
+    },
+    {
+      "name": "Documentation & Training Tools",
+      "keywords": [
+        "Camtasia",
+        "Articulate Rise 360",
+        "Adobe Captivate"
+      ]
+    },
+    {
+      "name": "Project & Collaboration Tools",
+      "keywords": [
+        "Jira",
+        "Azure DevOps",
+        "Git",
+        "GitHub",
+        "ChatGPT",
+        "Microsoft 365 Copilot"
+      ]
+    },
+    {
+      "name": "Agile & Product Practices",
+      "keywords": [
+        "Agile documentation",
+        "Product feature analysis",
+        "Release planning",
+        "Cross-functional collaboration"
+      ]
+    },
+    {
+      "name": "AI-Assisted Documentation",
+      "keywords": [
+        "AI-enabled content creation",
+        "AI writing tools",
+        "Content optimization"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Azure Fundamentals"
+    },
+    {
+      "name": "Microsoft Certified: AI Azure Fundamentals"
+    }
+  ]
+}

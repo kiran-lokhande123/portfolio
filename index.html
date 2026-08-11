@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio</title>
+  <meta name="description" content="Professional portfolio and resume." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header class="site-header">
+    <nav class="navbar" aria-label="Primary navigation">
+      <span class="brand" id="nav-brand">Portfolio</span>
+      <ul class="nav-links" id="nav-links"></ul>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">
+        <span aria-hidden="true">🌓</span>
+      </button>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    <section id="hero" class="hero">
+      <div class="hero-inner">
+        <h1 id="hero-name">Loading…</h1>
+        <p id="hero-label" class="hero-label"></p>
+        <p id="hero-summary" class="hero-summary"></p>
+        <div id="hero-contact" class="hero-contact"></div>
+      </div>
+    </section>
+
+    <section id="work" class="section" hidden>
+      <h2>Experience</h2>
+      <div id="work-list" class="timeline"></div>
+    </section>
+
+    <section id="projects" class="section" hidden>
+      <h2>Projects</h2>
+      <div id="projects-list" class="card-grid"></div>
+    </section>
+
+    <section id="skills" class="section" hidden>
+      <h2>Skills</h2>
+      <div id="skills-list" class="skills-grid"></div>
+    </section>
+
+    <section id="education" class="section" hidden>
+      <h2>Education</h2>
+      <div id="education-list" class="card-grid"></div>
+    </section>
+
+    <section id="certificates" class="section" hidden>
+      <h2>Certificates</h2>
+      <ul id="certificates-list" class="cert-list"></ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p id="footer-text">&copy; <span id="footer-year"></span></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
