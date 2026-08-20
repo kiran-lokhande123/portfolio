@@ -18,6 +18,7 @@
       "endDate": "",
       "summary": "Develop user-focused documentation for an AI-powered clinical documentation platform, leveraging AI-assisted writing tools and structured authoring practices.",
       "highlights": [
+        "Built a reusable AI skill connecting Claude Code to Jira and Confluence via MCP,converting Azure DevOps and Jira tickets into user-focused documentation with built-in quality checks and standardized output accross the team",
         "Reduced customer support tickets by 25% by developing modular, reusable content addressing common user issues",
         "Designed scenario-based training using Articulate Rise 360 and Camtasia to support user adoption of complex clinical workflows",
         "Analyzed Azure DevOps feature tickets and acceptance criteria to identify and prioritize documentation requirements",
