@@ -10,6 +10,107 @@
     },
     "url": "https://linkedin.com/in/kiran-lokhande-tech-writer"
   },
+  "projects": [
+    {
+      "name": "Documentation Workflow Automation",
+      "keywords": [
+        "Claude Code",
+        "MCP",
+        "Jira",
+        "Confluence"
+      ],
+      "highlights": [
+        "Built a reusable AI-powered documentation workflow that connects Claude Code with Jira and Confluence to convert development tickets into clear, user-focused documentation.",
+        "Automated content generation, quality checks, and documentation standards to improve efficiency and consistency across the team."
+      ]
+    },
+    {
+      "name": "AI-Driven Portfolio",
+      "url": "https://kiran-lokhande123.github.io/portfolio/",
+      "highlights": [
+        "Built and published a personal portfolio website using reusable AI commands and agents to automate résumé conversion and website generation.",
+        "Used Git and GitHub Pages to track changes, preview updates, and publish the website."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Documentation Strategy & Content Lifecycle",
+      "keywords": [
+        "Content planning",
+        "Documentation architecture",
+        "Lifecycle management"
+      ]
+    },
+    {
+      "name": "Content Structuring",
+      "keywords": [
+        "Information architecture",
+        "Modular writing",
+        "Structured authoring"
+      ]
+    },
+    {
+      "name": "Technical Documentation",
+      "keywords": [
+        "User guides",
+        "Admin manuals",
+        "Release notes",
+        "Knowledge base",
+        "FAQ"
+      ]
+    },
+    {
+      "name": "Authoring Tools",
+      "keywords": [
+        "Oxygen XML Editor",
+        "Arbortext",
+        "FrameMaker"
+      ]
+    },
+    {
+      "name": "Documentation & Training Tools",
+      "keywords": [
+        "Camtasia",
+        "Articulate Rise 360",
+        "Adobe Captivate"
+      ]
+    },
+    {
+      "name": "Project & Collaboration Tools",
+      "keywords": [
+        "Jira",
+        "Azure DevOps",
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Agile & Product Practices",
+      "keywords": [
+        "Agile documentation",
+        "Product feature analysis",
+        "Release planning",
+        "Cross-functional collaboration"
+      ]
+    },
+    {
+      "name": "AI-Assisted Documentation",
+      "keywords": [
+        "AI-enabled content creation",
+        "AI writing tools",
+        "Content optimization"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Azure Fundamentals"
+    },
+    {
+      "name": "Microsoft Certified: AI Azure Fundamentals"
+    }
+  ],
   "work": [
     {
       "name": "Microsoft",
@@ -80,86 +181,6 @@
     {
       "institution": "Modern College, Pune University",
       "studyType": "Bachelor of Computer Science"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Documentation Strategy & Content Lifecycle",
-      "keywords": [
-        "Content planning",
-        "Documentation architecture",
-        "Lifecycle management"
-      ]
-    },
-    {
-      "name": "Content Structuring",
-      "keywords": [
-        "Information architecture",
-        "Modular writing",
-        "Structured authoring"
-      ]
-    },
-    {
-      "name": "Technical Documentation",
-      "keywords": [
-        "User guides",
-        "Admin manuals",
-        "Release notes",
-        "Knowledge base",
-        "FAQ"
-      ]
-    },
-    {
-      "name": "Authoring Tools",
-      "keywords": [
-        "Oxygen XML Editor",
-        "Arbortext",
-        "FrameMaker"
-      ]
-    },
-    {
-      "name": "Documentation & Training Tools",
-      "keywords": [
-        "Camtasia",
-        "Articulate Rise 360",
-        "Adobe Captivate"
-      ]
-    },
-    {
-      "name": "Project & Collaboration Tools",
-      "keywords": [
-        "Jira",
-        "Azure DevOps",
-        "Git",
-        "GitHub",
-        "ChatGPT",
-        "Microsoft 365 Copilot"
-      ]
-    },
-    {
-      "name": "Agile & Product Practices",
-      "keywords": [
-        "Agile documentation",
-        "Product feature analysis",
-        "Release planning",
-        "Cross-functional collaboration"
-      ]
-    },
-    {
-      "name": "AI-Assisted Documentation",
-      "keywords": [
-        "AI-enabled content creation",
-        "AI writing tools",
-        "Content optimization"
-      ]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Microsoft Certified: Azure Fundamentals"
-    },
-    {
-      "name": "Microsoft Certified: AI Azure Fundamentals"
     }
   ]
 }
